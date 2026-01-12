@@ -3,7 +3,7 @@ Step 3 content:
 
 ## Internship Details
 - **Course Code:** CSE7302 – Internship  
-- **Student Name:** Shreya Kodukula  
+- **Student Name:** Syed Asad Qasim
 - **Program:** B.Tech CSE (Data Science)  
 - **University:** Presidency University, Bangalore  
 - **Internship Organization:** Employee-Based Systems  
