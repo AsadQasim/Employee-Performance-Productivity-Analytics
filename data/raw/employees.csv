@@ -1,0 +1,201 @@
+employee_id,name,department,role,join_date,years_experience,manager_id,location
+EMP0001,Robin Doyle,Support,Support Agent,2025-05-21,0.9,EMP0009,Mumbai
+EMP0002,Anthony Reed,Sales,Sales Rep,2022-02-09,11.2,EMP0018,Bangalore
+EMP0003,Christopher Barber,Finance,Accountant,2024-04-21,1.0,EMP0003,Mumbai
+EMP0004,Garrett Lynch,Sales,Sales Lead,2025-01-08,9.2,EMP0018,Mumbai
+EMP0005,Samantha Lindsey,Support,Customer Success,2025-06-06,10.7,EMP0014,Mumbai
+EMP0006,Paula White,Marketing,Marketing Manager,2023-08-11,4.5,EMP0001,Mumbai
+EMP0007,Jacqueline Christensen,Support,Support Lead,2024-08-21,5.4,EMP0005,Mumbai
+EMP0008,Alison Hayes,HR,HR Coordinator,2022-11-19,1.8,EMP0004,Delhi
+EMP0009,Ryan Norman DVM,HR,Recruiter,2023-01-14,4.3,EMP0002,Hyderabad
+EMP0010,Kelsey Monroe,Finance,Analyst,2021-09-09,14.6,EMP0013,Bangalore
+EMP0011,Brenda Walter,Finance,Accountant,2025-01-27,12.5,EMP0020,Delhi
+EMP0012,Leslie Ramos,Finance,Analyst,2022-07-08,10.7,EMP0002,Mumbai
+EMP0013,James Walker,HR,HR Coordinator,2022-03-19,12.9,EMP0004,Hyderabad
+EMP0014,Kathryn Perez,HR,HR Manager,2023-11-12,9.7,EMP0012,Mumbai
+EMP0015,Whitney Vaughn,HR,HR Manager,2025-01-09,3.5,EMP0009,Bangalore
+EMP0016,Eric Scott,Finance,Finance Manager,2021-11-07,3.0,EMP0008,Mumbai
+EMP0017,Allison Moore,Marketing,SEO Specialist,2021-09-30,4.4,EMP0018,Mumbai
+EMP0018,Sarah Mann,Support,Support Lead,2023-06-05,12.7,EMP0002,Mumbai
+EMP0019,Christopher Lester,Engineering,Senior Dev,2024-07-20,6.3,EMP0003,Mumbai
+EMP0020,Sydney Cole,Finance,Finance Manager,2021-08-01,5.1,EMP0016,Hyderabad
+EMP0021,Brianna Gilmore,Support,Support Lead,2021-12-30,2.6,EMP0005,Mumbai
+EMP0022,Christina Hutchinson,Support,Customer Success,2025-04-14,8.3,EMP0019,Hyderabad
+EMP0023,Matthew Fisher,Finance,Accountant,2026-01-31,5.7,EMP0005,Remote
+EMP0024,Briana Dawson,Marketing,Content Writer,2023-01-29,11.5,EMP0004,Mumbai
+EMP0025,Shannon Orozco,Support,Support Agent,2022-02-25,12.0,EMP0014,Remote
+EMP0026,Calvin Kane,Engineering,Senior Dev,2023-09-23,6.0,EMP0015,Remote
+EMP0027,Aaron Robinson,HR,Recruiter,2025-12-28,13.0,EMP0001,Bangalore
+EMP0028,Michelle Goodwin,Support,Customer Success,2021-09-04,11.4,EMP0011,Bangalore
+EMP0029,Daniel Lewis,HR,HR Manager,2023-12-07,2.8,EMP0001,Delhi
+EMP0030,Joshua Duncan,Finance,Analyst,2025-02-02,7.9,EMP0004,Delhi
+EMP0031,Laura Ibarra,Support,Customer Success,2026-03-02,9.3,EMP0005,Delhi
+EMP0032,Olivia Griffin,Sales,Sales Lead,2025-11-28,14.3,EMP0017,Bangalore
+EMP0033,Lori Hernandez,Finance,Accountant,2021-12-06,7.6,EMP0004,Delhi
+EMP0034,Jeffery Griffith,HR,HR Coordinator,2023-08-25,1.3,EMP0019,Bangalore
+EMP0035,Isabel Williams,Engineering,Tech Lead,2024-10-23,7.5,EMP0003,Remote
+EMP0036,Jamie Swanson,Sales,Sales Rep,2023-10-11,10.1,EMP0018,Mumbai
+EMP0037,Rhonda Barnes,HR,Recruiter,2022-09-14,13.2,EMP0014,Mumbai
+EMP0038,Matthew Hughes,Finance,Finance Manager,2025-03-08,10.5,EMP0010,Hyderabad
+EMP0039,Katherine Stanley,Support,Customer Success,2023-08-12,5.9,EMP0017,Hyderabad
+EMP0040,Andrea Kennedy,Engineering,Junior Dev,2025-03-30,3.8,EMP0011,Bangalore
+EMP0041,James Walters,Finance,Finance Manager,2025-01-15,3.8,EMP0008,Bangalore
+EMP0042,Elizabeth Hayes,Engineering,Tech Lead,2024-12-22,9.7,EMP0008,Bangalore
+EMP0043,Melinda Zuniga,Engineering,Senior Dev,2023-04-19,1.5,EMP0008,Delhi
+EMP0044,Debbie Gordon,Support,Support Lead,2025-03-03,3.6,EMP0005,Remote
+EMP0045,Brianna Vega,Finance,Accountant,2023-10-15,4.0,EMP0016,Hyderabad
+EMP0046,Andrew Reed Jr.,Sales,Sales Rep,2022-04-27,1.9,EMP0014,Delhi
+EMP0047,Christopher Conley,Marketing,SEO Specialist,2022-11-08,7.3,EMP0002,Bangalore
+EMP0048,John Martin,Engineering,Senior Dev,2022-11-09,11.1,EMP0004,Mumbai
+EMP0049,Todd Adams,Sales,Sales Rep,2022-10-12,8.3,EMP0005,Hyderabad
+EMP0050,Jennifer Lee,Sales,Account Manager,2025-03-31,7.2,EMP0003,Hyderabad
+EMP0051,Lisa Sutton,Finance,Analyst,2022-05-10,1.2,EMP0018,Bangalore
+EMP0052,Patrick Mercer,Engineering,Junior Dev,2021-08-27,2.9,EMP0016,Hyderabad
+EMP0053,Charlotte Wells DVM,Sales,Account Manager,2023-06-24,13.6,EMP0006,Hyderabad
+EMP0054,Melissa Lang,Engineering,Senior Dev,2026-02-22,4.3,EMP0015,Delhi
+EMP0055,Pamela Powell,Marketing,Marketing Manager,2025-02-16,14.4,EMP0018,Hyderabad
+EMP0056,Brian Howard,Sales,Sales Rep,2024-02-07,4.8,EMP0002,Remote
+EMP0057,Scott Harper,Support,Customer Success,2023-04-07,1.4,EMP0011,Bangalore
+EMP0058,Benjamin Buchanan,Engineering,Tech Lead,2024-02-09,7.4,EMP0017,Mumbai
+EMP0059,Richard Barker,Engineering,Tech Lead,2021-12-24,1.7,EMP0006,Bangalore
+EMP0060,Phillip Cummings,Finance,Analyst,2025-05-31,10.3,EMP0008,Hyderabad
+EMP0061,Maria Rodriguez,Engineering,Tech Lead,2024-02-04,4.1,EMP0020,Bangalore
+EMP0062,Gloria Rodriguez,Finance,Analyst,2024-03-03,6.6,EMP0019,Remote
+EMP0063,Brianna Smith,Finance,Accountant,2023-07-07,14.1,EMP0007,Delhi
+EMP0064,William Smith,Sales,Account Manager,2025-01-05,6.2,EMP0010,Hyderabad
+EMP0065,Richard Davis,HR,HR Coordinator,2022-04-18,0.6,EMP0020,Remote
+EMP0066,Miguel Jimenez,Engineering,Junior Dev,2025-01-20,8.3,EMP0017,Delhi
+EMP0067,Devon Jackson,Sales,Account Manager,2024-03-31,13.3,EMP0008,Delhi
+EMP0068,Shelley Khan,HR,HR Coordinator,2023-11-09,6.9,EMP0018,Delhi
+EMP0069,Christian Henry,Finance,Finance Manager,2022-05-02,8.2,EMP0018,Delhi
+EMP0070,Travis Webb,Support,Support Agent,2025-04-03,14.1,EMP0005,Delhi
+EMP0071,Elizabeth Decker,Engineering,Junior Dev,2025-10-02,11.3,EMP0005,Delhi
+EMP0072,Norman Johnson,HR,Recruiter,2022-01-08,3.6,EMP0011,Mumbai
+EMP0073,Courtney Reyes,Support,Customer Success,2023-02-03,12.9,EMP0017,Hyderabad
+EMP0074,Sheena Chandler,HR,HR Coordinator,2024-05-03,1.8,EMP0014,Delhi
+EMP0075,Deborah Ramos,Engineering,Junior Dev,2025-09-30,5.3,EMP0005,Delhi
+EMP0076,Brianna Black,Sales,Sales Lead,2024-03-04,6.9,EMP0014,Remote
+EMP0077,Matthew Pitts,Engineering,Junior Dev,2025-08-03,1.6,EMP0005,Remote
+EMP0078,Angela Stone,Engineering,Senior Dev,2024-09-17,8.9,EMP0005,Hyderabad
+EMP0079,Darryl Blanchard,Sales,Sales Rep,2021-12-30,5.0,EMP0002,Delhi
+EMP0080,Leslie Harris,Sales,Sales Lead,2024-02-29,4.1,EMP0004,Delhi
+EMP0081,Kevin Berry,Finance,Accountant,2026-02-20,14.6,EMP0005,Mumbai
+EMP0082,Theresa Robinson,Sales,Sales Rep,2024-04-17,13.3,EMP0001,Mumbai
+EMP0083,Dillon Bernard,Support,Support Lead,2024-10-08,11.8,EMP0014,Mumbai
+EMP0084,Rachel Huang,HR,HR Coordinator,2025-07-18,11.9,EMP0004,Hyderabad
+EMP0085,Natalie Rice,Engineering,Senior Dev,2025-09-12,3.7,EMP0015,Delhi
+EMP0086,Kelly Rios DDS,HR,HR Coordinator,2022-07-03,3.7,EMP0007,Hyderabad
+EMP0087,Anthony Young,HR,HR Manager,2025-12-13,13.0,EMP0009,Delhi
+EMP0088,Nicole Taylor,Support,Customer Success,2022-01-16,6.3,EMP0018,Delhi
+EMP0089,Gwendolyn Munoz,Engineering,Junior Dev,2023-08-28,13.2,EMP0009,Mumbai
+EMP0090,Joann Sanders,Finance,Accountant,2023-07-16,1.1,EMP0020,Hyderabad
+EMP0091,Heather Wright,HR,Recruiter,2022-09-23,11.9,EMP0014,Remote
+EMP0092,Bryce Valentine,Finance,Analyst,2021-09-30,6.1,EMP0019,Mumbai
+EMP0093,Terri Grimes,HR,HR Coordinator,2025-11-19,10.8,EMP0001,Remote
+EMP0094,Anthony Nelson,Finance,Finance Manager,2025-10-25,10.9,EMP0007,Delhi
+EMP0095,Amy Obrien,Marketing,Content Writer,2022-09-27,14.3,EMP0011,Remote
+EMP0096,Rachael Li,HR,Recruiter,2026-01-31,12.8,EMP0010,Remote
+EMP0097,Patrick Wright,HR,Recruiter,2023-04-03,6.4,EMP0013,Delhi
+EMP0098,Angela Aguilar,Finance,Analyst,2022-06-15,3.3,EMP0013,Mumbai
+EMP0099,Lisa Mcfarland,Finance,Finance Manager,2023-05-08,4.9,EMP0018,Bangalore
+EMP0100,Anne Williams,HR,HR Manager,2022-05-31,3.5,EMP0019,Remote
+EMP0101,Nicholas Keller,Support,Support Lead,2024-09-21,7.2,EMP0015,Mumbai
+EMP0102,Kimberly Brown,Finance,Accountant,2022-08-11,12.0,EMP0006,Bangalore
+EMP0103,Courtney Nguyen,HR,Recruiter,2022-10-17,10.1,EMP0020,Delhi
+EMP0104,Roy Schultz,Engineering,Junior Dev,2024-12-17,10.3,EMP0008,Mumbai
+EMP0105,James Singh,Sales,Sales Rep,2021-10-17,1.2,EMP0016,Remote
+EMP0106,Jennifer Young,Engineering,Senior Dev,2024-12-07,6.5,EMP0019,Mumbai
+EMP0107,Lisa Shepard,Support,Customer Success,2024-05-01,6.1,EMP0013,Mumbai
+EMP0108,Marc Jackson,Sales,Sales Lead,2021-10-26,10.5,EMP0004,Hyderabad
+EMP0109,Scott Ewing,Sales,Sales Rep,2022-04-09,12.2,EMP0017,Hyderabad
+EMP0110,Mary Richards,Engineering,Tech Lead,2026-04-14,4.1,EMP0004,Hyderabad
+EMP0111,Alex Carter,Sales,Account Manager,2026-04-03,10.2,EMP0018,Remote
+EMP0112,Dominique Perez,HR,HR Manager,2023-01-31,9.4,EMP0017,Hyderabad
+EMP0113,Carl Webb,Finance,Accountant,2025-10-13,13.5,EMP0016,Hyderabad
+EMP0114,Kelli Berry,HR,HR Coordinator,2023-03-04,12.7,EMP0009,Remote
+EMP0115,Jessica Moore,Marketing,Marketing Manager,2022-03-28,4.0,EMP0015,Bangalore
+EMP0116,Colleen Olsen,Support,Support Lead,2024-05-31,3.9,EMP0011,Delhi
+EMP0117,Gregory Christensen,Finance,Analyst,2022-01-23,2.5,EMP0008,Hyderabad
+EMP0118,George Meadows,Support,Support Agent,2025-07-12,10.7,EMP0003,Hyderabad
+EMP0119,William Campbell,Marketing,SEO Specialist,2023-12-09,8.4,EMP0014,Bangalore
+EMP0120,Lawrence Charles,Sales,Account Manager,2023-03-04,6.1,EMP0019,Bangalore
+EMP0121,Michael Dyer,Finance,Accountant,2023-05-31,7.4,EMP0012,Delhi
+EMP0122,Erin Dixon,Marketing,SEO Specialist,2026-04-01,8.3,EMP0018,Remote
+EMP0123,Collin Weber,Sales,Account Manager,2024-12-22,3.7,EMP0014,Hyderabad
+EMP0124,Donna Gutierrez,Engineering,Senior Dev,2022-10-16,5.4,EMP0013,Mumbai
+EMP0125,Destiny Johnson,Marketing,Content Writer,2023-06-28,14.7,EMP0018,Bangalore
+EMP0126,Sarah Cervantes,Marketing,Marketing Manager,2024-12-01,8.7,EMP0001,Bangalore
+EMP0127,Timothy Stewart,Support,Support Lead,2022-10-07,2.5,EMP0015,Mumbai
+EMP0128,Jennifer Perez,Engineering,Senior Dev,2025-09-24,6.0,EMP0007,Hyderabad
+EMP0129,Shane Barnes,HR,HR Manager,2022-12-09,11.5,EMP0013,Delhi
+EMP0130,Willie Johnson,Marketing,SEO Specialist,2024-07-24,12.6,EMP0016,Bangalore
+EMP0131,Robin Jones,Support,Customer Success,2023-05-11,1.3,EMP0012,Mumbai
+EMP0132,Amanda Nichols,Support,Support Agent,2024-05-02,11.8,EMP0002,Bangalore
+EMP0133,Michael Rollins,Sales,Sales Rep,2025-08-12,12.7,EMP0020,Mumbai
+EMP0134,Mary Atkins,Sales,Sales Rep,2021-06-14,7.4,EMP0004,Remote
+EMP0135,Jack Clark,Sales,Account Manager,2022-02-08,10.6,EMP0012,Mumbai
+EMP0136,Elizabeth Smith,Finance,Finance Manager,2021-07-29,14.5,EMP0004,Mumbai
+EMP0137,Paul Baker,HR,HR Coordinator,2023-04-25,8.9,EMP0010,Remote
+EMP0138,Joshua Martinez,Support,Support Lead,2022-02-25,6.3,EMP0007,Bangalore
+EMP0139,Peter Ware,Finance,Finance Manager,2023-08-18,12.5,EMP0008,Bangalore
+EMP0140,Andrew Jackson,Support,Support Lead,2023-02-22,12.8,EMP0020,Bangalore
+EMP0141,William Green,Finance,Analyst,2023-01-12,5.5,EMP0014,Delhi
+EMP0142,Jacob Stein,Engineering,Tech Lead,2025-10-06,9.9,EMP0001,Hyderabad
+EMP0143,Kevin Baker,Marketing,Content Writer,2022-07-02,6.8,EMP0012,Hyderabad
+EMP0144,John Duncan,Support,Support Agent,2021-08-27,6.8,EMP0017,Delhi
+EMP0145,Melissa Barnes,Finance,Finance Manager,2024-03-19,11.7,EMP0015,Hyderabad
+EMP0146,Erica Wise,Support,Customer Success,2026-02-17,4.4,EMP0008,Bangalore
+EMP0147,Gregory Smith,HR,HR Manager,2021-08-26,4.0,EMP0015,Remote
+EMP0148,John Johnson,Finance,Finance Manager,2023-12-08,6.0,EMP0001,Hyderabad
+EMP0149,Amber Nelson,HR,HR Coordinator,2022-12-28,7.6,EMP0012,Delhi
+EMP0150,Richard Kim,HR,HR Manager,2025-11-04,13.3,EMP0009,Remote
+EMP0151,Tony Allen,Engineering,Tech Lead,2025-03-10,14.2,EMP0003,Mumbai
+EMP0152,Greg Shah,Support,Support Lead,2024-12-02,7.6,EMP0008,Hyderabad
+EMP0153,James Johnson,Support,Customer Success,2022-11-28,7.6,EMP0001,Bangalore
+EMP0154,Eileen Burns,HR,HR Coordinator,2021-06-08,6.4,EMP0008,Delhi
+EMP0155,Kimberly Krueger,Support,Customer Success,2025-06-09,5.9,EMP0018,Remote
+EMP0156,Jason Jarvis,HR,HR Manager,2026-01-05,15.0,EMP0018,Delhi
+EMP0157,James Garza,HR,Recruiter,2023-07-31,7.1,EMP0010,Delhi
+EMP0158,Sara Luna,Sales,Sales Rep,2023-11-07,11.0,EMP0011,Bangalore
+EMP0159,Carol Lee,Support,Customer Success,2021-08-08,14.3,EMP0006,Mumbai
+EMP0160,Angela Benton,Sales,Sales Lead,2023-03-07,7.5,EMP0019,Remote
+EMP0161,Jessica Scott,Finance,Accountant,2021-09-12,14.7,EMP0007,Delhi
+EMP0162,Gregory Parker,Sales,Account Manager,2021-08-22,3.1,EMP0001,Remote
+EMP0163,Drew Mckinney,Sales,Account Manager,2021-11-24,1.2,EMP0002,Remote
+EMP0164,Jennifer Powers,HR,Recruiter,2024-04-02,14.2,EMP0016,Bangalore
+EMP0165,Joshua Mills,Engineering,Tech Lead,2025-12-13,4.6,EMP0016,Hyderabad
+EMP0166,Dylan Kirk,HR,HR Coordinator,2023-01-20,14.5,EMP0009,Hyderabad
+EMP0167,Melissa Williams,Engineering,Junior Dev,2023-03-17,6.3,EMP0003,Remote
+EMP0168,Jon Porter,Support,Customer Success,2022-05-12,1.3,EMP0005,Remote
+EMP0169,Brian Davis,HR,HR Coordinator,2023-06-14,14.9,EMP0004,Remote
+EMP0170,William Lloyd,Marketing,Marketing Manager,2021-05-01,9.1,EMP0020,Mumbai
+EMP0171,Amy Woodward,Finance,Accountant,2024-05-08,7.0,EMP0015,Delhi
+EMP0172,Denise Medina,Finance,Accountant,2022-08-13,4.9,EMP0020,Bangalore
+EMP0173,Jasmine Lewis,Finance,Finance Manager,2022-01-09,1.9,EMP0007,Mumbai
+EMP0174,Richard Henry,HR,Recruiter,2023-03-29,1.7,EMP0008,Mumbai
+EMP0175,Ryan Blake,Finance,Analyst,2024-10-31,2.8,EMP0014,Hyderabad
+EMP0176,William Fox,Support,Customer Success,2024-04-15,7.3,EMP0002,Mumbai
+EMP0177,Douglas Yates,HR,Recruiter,2023-01-07,4.6,EMP0015,Bangalore
+EMP0178,Thomas Hernandez,Support,Support Agent,2025-01-27,13.9,EMP0019,Mumbai
+EMP0179,Justin White,Marketing,Content Writer,2023-03-29,8.4,EMP0005,Delhi
+EMP0180,Daniel Ryan,Sales,Sales Rep,2022-06-28,1.4,EMP0010,Remote
+EMP0181,Joanne Hall,Support,Customer Success,2021-11-21,13.9,EMP0015,Bangalore
+EMP0182,Alexander Garcia,Marketing,Marketing Manager,2021-10-21,4.9,EMP0013,Delhi
+EMP0183,Jamie Cohen,Finance,Finance Manager,2021-12-07,7.7,EMP0003,Remote
+EMP0184,Steven Barton,Engineering,Senior Dev,2022-12-06,11.2,EMP0020,Delhi
+EMP0185,Mrs. Toni Webb,Engineering,Junior Dev,2021-05-01,3.8,EMP0019,Remote
+EMP0186,Jamie Herman,Engineering,Tech Lead,2022-01-16,12.4,EMP0019,Bangalore
+EMP0187,Daniel Nguyen,Sales,Account Manager,2022-08-03,8.0,EMP0015,Delhi
+EMP0188,Robert Love,Sales,Sales Lead,2022-11-26,6.8,EMP0016,Bangalore
+EMP0189,Jennifer Travis,Marketing,SEO Specialist,2022-08-13,6.4,EMP0011,Bangalore
+EMP0190,Rachel Francis,Sales,Account Manager,2022-02-28,6.5,EMP0016,Delhi
+EMP0191,Tamara Ramirez,Support,Support Lead,2021-06-04,12.3,EMP0018,Bangalore
+EMP0192,Jordan Barr,Marketing,Content Writer,2023-02-20,5.1,EMP0011,Bangalore
+EMP0193,Patricia Graves,Marketing,Marketing Manager,2026-01-07,12.5,EMP0001,Remote
+EMP0194,Jennifer Cain,Marketing,SEO Specialist,2024-03-15,1.3,EMP0017,Delhi
+EMP0195,Andrea Davidson,Finance,Accountant,2023-12-10,9.6,EMP0002,Mumbai
+EMP0196,Lisa Martinez,HR,Recruiter,2022-06-20,2.4,EMP0010,Hyderabad
+EMP0197,Julie Snow,Support,Support Lead,2025-07-03,2.3,EMP0020,Mumbai
+EMP0198,Jennifer Moody,Support,Support Agent,2026-04-13,5.0,EMP0001,Remote
+EMP0199,Kimberly King,Marketing,Content Writer,2025-07-24,3.8,EMP0004,Hyderabad
+EMP0200,Ashley Lopez,Engineering,Tech Lead,2023-11-18,12.6,EMP0016,Delhi
