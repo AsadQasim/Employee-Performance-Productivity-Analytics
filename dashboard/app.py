@@ -5,6 +5,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 import joblib
 from sklearn.preprocessing import LabelEncoder
+import os
 
 # --- Page Config ---
 st.set_page_config(
@@ -17,8 +18,9 @@ st.set_page_config(
 # --- Load Data ---
 @st.cache_data
 def load_data():
-    metrics = pd.read_csv('../data/processed/employee_metrics.csv')
-    tasks = pd.read_csv('../data/processed/merged_data.csv')
+    base = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    metrics = pd.read_csv(os.path.join(base, 'data', 'processed', 'employee_metrics.csv'))
+    tasks = pd.read_csv(os.path.join(base, 'data', 'processed', 'merged_data.csv'))
     return metrics, tasks
 
 metrics, tasks = load_data()
@@ -143,7 +145,8 @@ with pred_col3:
 
 if st.button("🔍 Predict Performance Tier", type="primary"):
     try:
-        model = joblib.load('../src/performance_model.pkl')
+        base = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        model = joblib.load(os.path.join(base, 'src', 'performance_model.pkl'))
         le = LabelEncoder()
         le.fit(metrics['department'])
         dept_enc = le.transform([p_dept])[0]
