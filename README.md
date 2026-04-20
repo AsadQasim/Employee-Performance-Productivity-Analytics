@@ -12,7 +12,6 @@ A comprehensive data science project that analyzes employee task and productivit
 - **University:** Presidency University, Bangalore  
 - **Internship Organization:** EmployeeBay Systems  
 - **Role:** Data Science Intern  
-- **Duration:** 8-10 weeks
 - **Project Status:** ✅ COMPLETED
 
 ---
